@@ -1,6 +1,5 @@
 package com.qms.backend.passwordSetting;
 
-import com.qms.backend.userGroup.UserGroup;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
